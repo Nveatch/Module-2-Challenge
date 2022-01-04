@@ -7,10 +7,10 @@ The purpose of this challenge is to take the original VBA all stock analysis, an
 
 ## Results
 
-![Original vs. Refactored Run Time](/resources/Side by Side Time Comparison.png)
+![Original vs. Refactored Run Time](https://github.com/Nveatch/stock-analysis/blob/main/Resources/Side%20by%20Side%20Time%20Comparison.png)
 From the attached picture, we can see the run time was reduced from about **0.60 seconds** to **0.08 seconds** (a decrease of **86.7%**) for 2017, and from about **0.61 seconds** to **0.08 seconds** (a decrease of **86.8%**) for 2018)
 
-![2017 vs. 2018 Annual Return Percentages](/resources/Annual Return Graph.png)
+![2017 vs. 2018 Annual Return Percentages](https://github.com/Nveatch/stock-analysis/blob/main/Resources/Annual%20Return%20Graph.png)
 From the attached graph, we can see that 2017 was a good year for the market, with most of the stocks having a positive return, while 2018 was a bad year for the market (mostly negative returns). From this comparison, I would conclude that good tickers to invest in are "ENPH" and "RUN", as they had a net positive return both years. Of those two, "ENPH" is more consistent, but both had similar return percentages for 2018.
 
 Conversely, stocks to avoid would be the tickers "TERP", "AY", and "CSIQ". "TERP" had negative returns both years, and both "AY" and "CSIQ" essentially broke even over the two years (with "CSIQ" fairing slightly better).  
