@@ -1,4 +1,4 @@
-# VBA Stock Analysis
+# VBA_Stock_Analysis
 
 ## Overview of Project
 
